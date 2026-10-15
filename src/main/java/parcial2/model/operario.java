@@ -1,4 +1,4 @@
 package parcial2.model;
 
-public class operario {
+public class Operario {
 }

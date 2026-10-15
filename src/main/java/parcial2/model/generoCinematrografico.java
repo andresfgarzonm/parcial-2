@@ -1,4 +1,4 @@
 package parcial2.model;
 
-public enum generoCinematrografico {
+public enum GeneroCinematrografico {
 }

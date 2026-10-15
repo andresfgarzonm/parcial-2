@@ -1,4 +1,4 @@
 package parcial2.model;
 
-public class pelicula {
+public class Pelicula {
 }
